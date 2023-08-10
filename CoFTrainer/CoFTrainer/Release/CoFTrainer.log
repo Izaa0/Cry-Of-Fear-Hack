@@ -1,0 +1,8 @@
+﻿  proc.cpp
+C:\Users\Adamok\source\repos\CoFTrainer\CoFTrainer\proc.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+  src.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CoFTrainer.vcxproj -> C:\Users\Adamok\source\repos\CoFTrainer\Release\CoFTrainer.exe
